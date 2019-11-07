@@ -1,4 +1,4 @@
-const persona = ['Alberto Kicyiu', 34, 'China', 'Desarrollador Web y Movil'];
+const persona = ['Yun', 28, 'China', 'Desarrollador Web y Movil'];
 
 const [nombre, , pais, profesion, idioma = 'No especificado'] = persona;
 
