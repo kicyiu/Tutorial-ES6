@@ -1,6 +1,6 @@
 "use strict";
 
-var persona = ['Alberto Kicyiu', 34, 'China', 'Desarrollador Web y Movil'];
+var persona = ['Yun', 28, 'China', 'Desarrollador Web y Movil'];
 var nombre = persona[0],
     pais = persona[2],
     profesion = persona[3],
